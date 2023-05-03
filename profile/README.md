@@ -13,10 +13,10 @@ To get started with OpsMesh, follow these steps:
 
 OpsMesh provides the following key features:
 
-- **Starter Templates:** Jump-start your cloud-native journey with pre-configured templates that follow best practices.
-Infrastructure as Code: Simplify infrastructure management and versioning with IaC tools like Terraform and Ansible.
-- **GitOps Workflows:** Enhance collaboration and automation using Git-based workflows for infrastructure and application deployments.
-- **Integration Support:** Seamlessly integrate with popular cloud platforms (AWS, Azure, GCP), container orchestrators (Kubernetes, Docker), and CI/CD tools (Jenkins, GitHub Actions).
+- **Starter Templates:** Jump-start your cloud-native journey with pre-configured templates that follow best practices. 
+- **Infrastructure as Code and GitOps Workflows:** Enhance collaboration and automation using Git-based workflows for infrastructure and application deployments.
+- **Integration Support:** Seamlessly integrate with popular cloud platforms (Akamai, AWS, Azure, GCP) and Kubernetes distributions (Rancher, K3S, AKS, EKS, GKE, OpenShift).
+- **Extensibility:** Easily extend the functionality of your tools and templates using the programming language of your choice.
 - **Open Source:** Access a growing ecosystem of tools and templates, free to use and modify according to your needs.
 
 ## Contributing
